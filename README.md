@@ -8,7 +8,7 @@ This application will make an mp3 based on you pdf file.
 pip install gtts
 pip install PyPDF2
 ```
-### Dun the application
+### Run the application
 ```
-python Audio-book.py
+python main.py
 ```
